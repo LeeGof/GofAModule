@@ -30,7 +30,7 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '9.0'
 
-  s.source_files = 'GofAModule/Classes/*'
+  s.source_files = 'GofAModule/*'
   
   # s.resource_bundles = {
   #   'GofAModule' => ['GofAModule/Assets/*.png']
