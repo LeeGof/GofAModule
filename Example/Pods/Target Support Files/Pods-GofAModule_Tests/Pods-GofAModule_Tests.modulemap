@@ -1,0 +1,6 @@
+framework module Pods_GofAModule_Tests {
+  umbrella header "Pods-GofAModule_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

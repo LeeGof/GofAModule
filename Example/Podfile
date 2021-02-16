@@ -1,0 +1,12 @@
+use_frameworks!
+
+platform :ios, '11.0'
+
+target 'GofAModule_Example' do
+  pod 'GofKitLib', '0.0.4'
+  target 'GofAModule_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
